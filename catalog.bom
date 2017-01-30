@@ -42,6 +42,7 @@ brooklyn.catalog:
     publish:      
       license_code: Apache-2.0
       overview: README.md
+    version: 0.9-SNAPSHOT
     name: "Hyperledger Fabric Multi-cluster"
     iconUrl: https://raw.githubusercontent.com/cloudsoft/brooklyn-hyperledger/master/hyperledger-fabric-icon.png
     itemType: entity
@@ -90,6 +91,7 @@ brooklyn.catalog:
     publish:      
       license_code: Apache-2.0
       overview: README.md
+    version: 0.9-SNAPSHOT
     name: "Hyperledger Fabric Single-cluster"
     iconUrl: https://raw.githubusercontent.com/cloudsoft/brooklyn-hyperledger/master/hyperledger-fabric-icon.png
     itemType: entity
